@@ -8,4 +8,5 @@ As you may have already noticed, two folds are missing. Folder 01 Project Manage
 
 ### Data-Citation
 The Data that was used for this analysis was eather provided by Careerfoundry or by instacart.
-“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on <date>.
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on <date>.  
+To find out more about the data follow this Link or contact me: [Data Dictonary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b) 
